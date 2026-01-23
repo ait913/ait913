@@ -3,6 +3,7 @@
 日本工学院専門学校2年 - Nippon Engineering College Grades 2
 
 作りたくなったものを永遠と作ってます。
+主にPythonとtsです。Rubyも使ってみたい
 
 <img width=150px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dmtvbWYyeHZtMDR2M3Q5bjg2NmZpbjQ3cG15N25xOHZvOXdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkC7R4WcYYtaZq7v91/giphy.gif">
 
