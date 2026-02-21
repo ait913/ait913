@@ -7,6 +7,13 @@
 
 <img width=150px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dmtvbWYyeHZtMDR2M3Q5bjg2NmZpbjQ3cG15N25xOHZvOXdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkC7R4WcYYtaZq7v91/giphy.gif">
 
+## Links
+*WebSite*
+[aisaba.net](https://aisaba.net)
+
+*Zenn*
+[zenn.dev](https://zenn.dev/ait913)
+
 ## Skills
 *Development*
 <p align="left">
